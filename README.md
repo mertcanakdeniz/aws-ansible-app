@@ -1,7 +1,8 @@
 
 
-!! This project cloning from someonelse for my self works on aws env. and  cicd process /w Jenkins 
-Simple Notes App
+**!!!  This project cloning from someonelse for my self works on aws env. and  cicd process /w Jenkins 
+Simple Notes App !!!**
+
 This is a simple notes app built with React and Django.
 
 ## Requirements
